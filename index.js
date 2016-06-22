@@ -1,3 +1,3 @@
 $(document).ready(function(){
-  $('.materialboxed').materialboxed();
+  $('.materialboxed').materialbox();
 });
